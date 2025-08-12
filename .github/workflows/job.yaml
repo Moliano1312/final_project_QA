@@ -29,4 +29,17 @@ jobs:
     needs: deploy-to-staging 
     steps:
       - name: Deploy to Production
-        run: echo "Deploying to production environment..."
+        run: echo "Deploying to production environment...i"
+
+  output folders:
+   
+    runs-on: ubuntu-latest
+    environment: staging
+    needs: build
+    steps:
+      - uses: actions/checkout@v4
+      - name: test steps
+        run: ls -la
+      - name: start sh.scripts
+        run: sh script111.sh
+
