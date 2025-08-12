@@ -3,7 +3,7 @@ name: Deploy to Staging and Production
 on:
   push:
     branches:
-      - main 
+      - master
 
 jobs:
   build:
@@ -14,8 +14,6 @@ jobs:
         run: echo "Building application..." 
       - name: ls command
         run: ls -la
-      - name: Start script build
-        run: sh build_script.sh
 
   deploy-to-staging:
     runs-on: ubuntu-latest
