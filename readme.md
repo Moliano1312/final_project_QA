@@ -9,12 +9,11 @@
 </p>
 <h3>My skills:</h3>
 <p>✔ Writing <a href="https://github.com/Moliano1312/final_project_QA/tree/master/Bug_reports">Bug reports</a> and <a href="https://github.com/Moliano1312/final_project_QA/tree/master/Test_cases">Test cases</a></p>
-<p>✔ Writing <a href="https://github.com/EkaterinaGrinina/final_project/blob/main/Documentation/Documentation.pdf">documentation</a></p>
-<p>✔ Working with <a href="https://github.com/EkaterinaGrinina/final_project/tree/main/Postman">Postman</a></p>
-<p>✔ Executing <a href="https://github.com/EkaterinaGrinina/final_project/blob/main/Bash%20commands/Bash%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B.pdf">Bash commands</a></p>
-<p>✔ Working with <a href="https://github.com/EkaterinaGrinina/final_project/tree/main/SQL">SQL</a></p>
-<p>✔ Creating <a href="https://github.com/EkaterinaGrinina/final_project/blob/main/Scripts/status_code_script.sh">Scripts</a></p>
-<p>✔ Working with <a href="https://github.com/EkaterinaGrinina/final_project/blob/main/Charles/Charles.pdf">Charles</a></p>
-<p>✔ Understanding <a href="https://github.com/EkaterinaGrinina/final_project/blob/main/Client-Server%20architecture/Client-server_architecture.pdf">Client-server architecture</a></p>
+<p>✔ Working with <a href=https://github.com/Moliano1312/final_project_QA/tree/master/Postman">Postman</a></p>
+<p>✔ Executing <a href="https://github.com/Moliano1312/final_project_QA/blob/master/Bash_commands/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20-%20Google%20%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8.pdf">Bash commands</a></p>
+<p>✔ Working with <a href="https://github.com/Moliano1312/final_project_QA/tree/master/SQL">SQL</a></p>
+<p>✔ Creating <a href="https://github.com/Moliano1312/final_project_QA/blob/master/Scripts/proverka_vorzrasta.sh">Scripts</a></p>
+<p>✔ Working with <a href="https://github.com/Moliano1312/final_project_QA/tree/master/Charles">Charles</a></p>
+<p>✔ Understanding <a href="https://github.com/Moliano1312/final_project_QA/blob/master/Client_Server_Architecture/Client-server.pdf">Client-server architecture</a></p>
 <p>✔ Creating <a href="https://github.com/EkaterinaGrinina/final_project/actions">Pipilines</a> and <a href="https://github.com/EkaterinaGrinina/final_project/blob/main/.github/workflows/final_project_actions.yml"> Jobs</a> </p>
 
