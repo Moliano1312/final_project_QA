@@ -9,7 +9,7 @@
 </p>
 <h3>My skills:</h3>
 <p>✔ Writing <a href="https://github.com/Moliano1312/final_project_QA/tree/master/Bug_reports">Bug reports</a> and <a href="https://github.com/Moliano1312/final_project_QA/tree/master/Test_cases">Test cases</a></p>
-<p>✔ Working with <a href=https://github.com/Moliano1312/final_project_QA/tree/master/Postman">Postman</a></p>
+<p>✔ Working with <a href="https://github.com/Moliano1312/final_project_QA/tree/master/Postman">Postman</a></p>
 <p>✔ Executing <a href="https://github.com/Moliano1312/final_project_QA/blob/master/Bash_commands/Bash_commands1.pdf">Bash commands</a></p>
 <p>✔ Working with <a href="https://github.com/Moliano1312/final_project_QA/tree/master/SQL">SQL</a></p>
 <p>✔ Creating <a href="https://github.com/Moliano1312/final_project_QA/blob/master/Scripts/proverka_vorzrasta.sh">Scripts</a></p>
