@@ -13,7 +13,7 @@
 <p>✔ Executing <a href="https://github.com/Moliano1312/final_project_QA/blob/master/Bash_commands/Bash_commands1.pdf">Bash commands</a></p>
 <p>✔ Working with <a href="https://github.com/Moliano1312/final_project_QA/tree/master/SQL">SQL</a></p>
 <p>✔ Creating <a href="https://github.com/Moliano1312/final_project_QA/blob/master/Scripts/proverka_vorzrasta.sh">Scripts</a></p>
-<p>✔ Working with <a href="https://github.com/Moliano1312/final_project_QA/tree/master/Charles">Charles</a></p>
+<p>✔ Working with <a href="https://github.com/Moliano1312/final_project_QA/blob/master/Charles/Charles.pdf">Charles</a></p>
 <p>✔ Understanding <a href="https://github.com/Moliano1312/final_project_QA/blob/master/Client_Server_Architecture/Client-server.pdf">Client-server architecture</a></p>
 <p>✔ Creating <a href="https://github.com/EkaterinaGrinina/final_project/actions">Pipilines</a> and <a href="https://github.com/EkaterinaGrinina/final_project/blob/main/.github/workflows/final_project_actions.yml"> Jobs</a> </p>
 
