@@ -3,7 +3,7 @@
 <p></p>
 <p align="center">Hi there!👋 My name is Aleksandr. I'm an entry level QA-engineer from Moscow. Here you may find my resume and my contacts👇</p>
 <p align="center">
-<a href="https://hh.ru/applicant/resumes/view?resume=517e4945ff0087372d0039ed1f736563726574"> <img src="https://img.shields.io/badge/HeadHunter-darkred"></a>
+<a href="https://hh.ru/resume/750cc634ff0f80c62d0039ed1f6c4d75426d61"> <img src="https://img.shields.io/badge/HeadHunter-darkred"></a>
 <a href="https://t.me/moliano77"> <img src="https://img.shields.io/badge/Telegram-blue"></a>
 <a href="https://api.whatsapp.com/send?phone=79689666596"> <img src="https://img.shields.io/badge/WhatsApp-darkgreen"></a>
 </p>
